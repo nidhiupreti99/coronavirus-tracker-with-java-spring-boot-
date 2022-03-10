@@ -5,6 +5,5 @@
 
 This application is used to track coronavirus confirmed cases across different countries of the world. it is scheduled to update the data automatically every day using cron job.
 
-
-Novel Coronavirus(COVID-19)Cases, Provided by JHU CSSE
+Data Source Used:- Novel Coronavirus(COVID-19)Cases, Provided by JHU CSSE
 https://github.com/CSSEGISandData/COVID-19
