@@ -48,7 +48,7 @@ public class CoronaVirusDataService {
 
 
             locationStat.setLatestTotalCases(latestCases);
-            locationStat.setDiffFromPrevDay(prevDayCases);
+            locationStat.setDiffFromPrevDay(latestCases-prevDayCases);
             System.out.println(locationStat);
             newStats.add(locationStat);
 
